@@ -31,8 +31,6 @@ def run_query_single(query):
     #For counts/aggeregates 
     result = cursor.fetchone()[0]
 
-    #for data validation across_rows
-    result1 = cursor.fetchmany(10)
     cursor.close()
     conn.close()
-    return result1
+    return result

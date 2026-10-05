@@ -1,18 +1,22 @@
 {
-    "host": "PUT YOUR HOST HERE",
-    "database": "PUT YOUR DATABASE HERE",
-    "port": "PUT YOUR PORT HERE",
-    "user": "PUT YOUR USER HERE",
-    "pw": "PUT YOUR PASSWORD HERE",
-    "schema": "PUT YOUR SCHEMA HERE",
-    "table_name": "PUT YOUR TABLE NAME HERE",
+    "host": "PASTE HERE",
+    "database": "PASTE HERE",
+    "port": "PASTE HERE",
+    "user": "PASTE HERE",
+    "pw": "PASTE HERE",
+    "schema": "PASTE HERE",
+    "table_name": "PASTE HERE",
     "count_not_0": 0,
     "duplicate_count": 0,
     "check_null": 0,
     "field_list": [
-
+        "PASTE HERE",
+        "PASTE HERE",
+        "PASTE HERE",
+        "PASTE HERE"
         ],
     "not_null_fields": [
+        "PASTE HERE"
         ]
 
 
